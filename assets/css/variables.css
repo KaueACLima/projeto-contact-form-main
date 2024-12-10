@@ -1,0 +1,13 @@
+:root {
+  /** Colors */
+
+  /** Primary */
+  --light-green: hsl(148, 38%, 91%);
+  --green: hsl(169, 82%, 27%);
+  --red: hsl(0, 66%, 54%);
+
+  /** Neutral */
+--white: hsl(0, 0%, 100%);
+--medium-grey: hsl(186, 15%, 59%);
+--darker-grey: hsl(187, 24%, 22%);
+}
