@@ -1,0 +1,1 @@
+- Resolver radio button query type
